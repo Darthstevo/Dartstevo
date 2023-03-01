@@ -3,4 +3,3 @@
 <br>
 I'm a Cloud and Tech enthusiast <p>😀</p>
 <br>
-<i class="fa-brands fa-linkedin"></i>
