@@ -25,3 +25,10 @@ I'm a Cloud and Tech enthusiast. I enjoy learning new things, sharing knowledge 
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/raspberrypi.svg" alt="Raspberry Pi"/> <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/nintendo.svg" alt="Nintendo Logo" /> <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/mac.svg" alt="Mac Logo" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Logo" />
 
 ---
+
+  ### 📕 Blogs and references
+<!-- BLOG-POST-LIST:START -->
+- [Interested in IT? Where to start? My thoughts and how to begin the journey](https://thebasictek.com/)
+- [100 Days of Cloud - Interest in Cloud? Check these projects and stories ](https://dev.to/t/100daysofcloud)
+  
+---
